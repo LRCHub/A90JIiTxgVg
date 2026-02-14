@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "GROOVY",
+  "base_artist": "Lyn",
+  "createdAt": "2026-02-14T09:50:49.396880Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A Groovy Kind of Love",
+      "artist": "Phil Collins",
+      "has_synced": true,
+      "path": "select/01_A_Groovy_Kind_of_Love_Phil_Collins.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Groovy Is My Name",
+      "artist": "Pizzicato Five",
+      "has_synced": false,
+      "path": "select/02_Groovy_Is_My_Name_Pizzicato_Five.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I'm so Groovy",
+      "artist": "Future",
+      "has_synced": true,
+      "path": "select/03_I'm_so_Groovy_Future.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Groovy Thang",
+      "artist": "Minimal Funk",
+      "has_synced": false,
+      "path": "select/04_The_Groovy_Thang_Minimal_Funk.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Groovy",
+      "artist": "Pet Shop Boys",
+      "has_synced": true,
+      "path": "select/05_Groovy_Pet_Shop_Boys.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Groovy Potential",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/06_Groovy_Potential_Prince.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The 59th Street Bridge Song (Feelin' Groovy)",
+      "artist": "Simon & Garfunkel",
+      "has_synced": true,
+      "path": "select/07_The_59th_Street_Bridge_Song_(Feelin'_Groovy)_Simon_&_Garfunkel.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The 59th Street Bridge Song (Feelin' Groovy)",
+      "artist": "Simon & Garfunkel",
+      "has_synced": true,
+      "path": "select/08_The_59th_Street_Bridge_Song_(Feelin'_Groovy)_Simon_&_Garfunkel.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The 59th Street Bridge Song (Feelin' Groovy) [Live at Carnegie Hall, New York, NY - July 1970]",
+      "artist": "Simon & Garfunkel",
+      "has_synced": true,
+      "path": "select/09_The_59th_Street_Bridge_Song_(Feelin'_Groovy)_[Live_at_Carnegie_Hall,_New_York,_N_Simon_&_Garfunkel.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "A Groovy Kind of Love",
+      "artist": "Phil Collins",
+      "has_synced": true,
+      "path": "select/10_A_Groovy_Kind_of_Love_Phil_Collins.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Groovy Kind of Love",
+      "artist": "Phil Collins",
+      "has_synced": false,
+      "path": "select/11_Groovy_Kind_of_Love_Phil_Collins.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Groovy Kind of Love",
+      "artist": "Phil Collins",
+      "has_synced": true,
+      "path": "select/12_Groovy_Kind_of_Love_Phil_Collins.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Know Where It's At - Groovy Mix",
+      "artist": "All Saints",
+      "has_synced": false,
+      "path": "select/13_I_Know_Where_It's_At_-_Groovy_Mix_All_Saints.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The 59th Street Bridge Song (Feelin' Groovy)",
+      "artist": "Simon & Garfunkel",
+      "has_synced": true,
+      "path": "select/14_The_59th_Street_Bridge_Song_(Feelin'_Groovy)_Simon_&_Garfunkel.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Groovy Times",
+      "artist": "The Clash",
+      "has_synced": false,
+      "path": "select/15_Groovy_Times_The_Clash.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Workin' On A Groovy Thing - Digitally Remastered 1997",
+      "artist": "The 5th Dimension",
+      "has_synced": false,
+      "path": "select/16_Workin'_On_A_Groovy_Thing_-_Digitally_Remastered_1997_The_5th_Dimension.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Workin' On A Groovy Thing (Digitally Remastered 1997)",
+      "artist": "The 5th Dimension",
+      "has_synced": false,
+      "path": "select/17_Workin'_On_A_Groovy_Thing_(Digitally_Remastered_1997)_The_5th_Dimension.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Workin' On A Groovy Thing - Remastered 2000",
+      "artist": "The 5th Dimension",
+      "has_synced": false,
+      "path": "select/18_Workin'_On_A_Groovy_Thing_-_Remastered_2000_The_5th_Dimension.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GROOVY (OP ver.)",
+      "artist": "Lyn / アトラスサウンドチーム",
+      "has_synced": false,
+      "path": "select/pl_01_GROOVY_(OP_ver.)_Lyn___アトラスサウンドチーム.txt"
+    }
+  ]
+}
